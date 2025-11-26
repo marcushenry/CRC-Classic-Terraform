@@ -9,4 +9,4 @@ The server's boot script (`user_data`) automatically installed Apache and replac
 This setup minimizes costs while providing a professional, custom-branded public URL. 
 The final troubleshooting step involved recognizing that stopping and starting the instance causes its Public IP to change, which breaks the DNS record—a classic behavior that is normally solved by adopting an Elastic IP.
 
-https://www.notion.so/Classic-Cloud-Resume-Challenge-2b54faf5542a809293b4d405f0d67927?source=copy_link#2b54faf5542a80b8a1f1c7d6c8aa95a2
+
